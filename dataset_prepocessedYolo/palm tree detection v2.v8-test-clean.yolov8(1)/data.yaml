@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['palmtree']
+
+roboflow:
+  workspace: seipppp
+  project: palm-tree-detection-v2
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/seipppp/palm-tree-detection-v2/dataset/8
