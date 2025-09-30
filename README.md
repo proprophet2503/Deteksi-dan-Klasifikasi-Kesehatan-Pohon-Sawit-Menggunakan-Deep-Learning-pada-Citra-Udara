@@ -32,4 +32,8 @@ Model ini dideploy menggunakan **Hugging Face Spaces** dengan framework **Gradio
 
 👉 [Hugging Face Demo](#) *(https://huggingface.co/spaces/jeremymboe/PalmTree_Detection_HealthClassification_BIGTOR)*
 
+
+##  📝 Paper
+Project ini dilombakan pada Gemastik Divisi Penambangan Data 2025 yang bisa diakses di folder **paper**.
+
 ---
