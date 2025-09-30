@@ -30,6 +30,6 @@ Model ini dideploy menggunakan **Hugging Face Spaces** dengan framework **Gradio
 2. Melihat hasil deteksi pohon beserta bounding box.
 3. Mendapatkan label kesehatan masing-masing pohon (sehat / kurang sehat).
 
-👉 [Hugging Face Demo](#) *(link akan ditambahkan di sini)*
+👉 [Hugging Face Demo](#) *(https://huggingface.co/spaces/jeremymboe/PalmTree_Detection_HealthClassification_BIGTOR)*
 
 ---
