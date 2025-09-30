@@ -31,7 +31,7 @@ Model ini dideploy menggunakan **Hugging Face Spaces** dengan framework **Gradio
 3. Mendapatkan label kesehatan masing-masing pohon (sehat / kurang sehat).
 
 👉 [Hugging Face Demo](#) *(https://huggingface.co/spaces/jeremymboe/PalmTree_Detection_HealthClassification_BIGTOR)*
-
+Untuk mencoba hasil model dapat menggunakan dataset di folder **test/image** pada **dataset_prepocessedYolo**
 
 ##  📝 Paper
 Project ini dilombakan pada Gemastik Divisi Penambangan Data 2025 yang bisa diakses di folder **paper**.
