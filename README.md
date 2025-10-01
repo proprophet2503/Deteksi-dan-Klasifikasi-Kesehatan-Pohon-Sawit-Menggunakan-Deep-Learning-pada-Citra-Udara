@@ -17,7 +17,7 @@ Model deep learning yang digunakan adalah **YOLOv8s** untuk deteksi objek, kemud
 - NDVI dipakai sebagai **augmentasi tambahan** agar tingkat kehijauan daun lebih jelas, sehingga mempermudah klasifikasi kesehatan pohon.
 
 ### 3. **Klasifikasi Kesehatan**
-- Setelah bounding box diperoleh, setiap pohon diklasifikasikan menjadi:
+- Setelah bounding box diperoleh, setiap pohon diklasifikasikan menggunakan **ResNet18** menjadi:
   - 🌱 **Sehat**  
   - 🍂 **Kurang Sehat**  
 - Klasifikasi dilakukan berdasarkan fitur visual dari **citra RGB + NDVI masking**.
